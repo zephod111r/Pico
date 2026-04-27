@@ -1,0 +1,7 @@
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/pioasm.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/edit_cache.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/list_install_components.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/install.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/install/local.dir
+/home/Phillip/Pico/cpp/build/pioasm/CMakeFiles/install/strip.dir
