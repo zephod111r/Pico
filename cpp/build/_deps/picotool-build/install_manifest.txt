@@ -1,7 +1,0 @@
-/home/Phillip/Pico/cpp/build/_deps/picotool/picotool
-/home/Phillip/Pico/cpp/build/_deps/picotool/picotoolTargets.cmake
-/home/Phillip/Pico/cpp/build/_deps/picotool/picotoolTargets-release.cmake
-/home/Phillip/Pico/cpp/build/_deps/picotool/picotoolConfig.cmake
-/home/Phillip/Pico/cpp/build/_deps/picotool/picotoolConfigVersion.cmake
-/home/Phillip/Pico/cpp/build/_deps/picotool/enc_bootloader.elf
-/home/Phillip/Pico/cpp/build/_deps/picotool/enc_bootloader_mbedtls.elf

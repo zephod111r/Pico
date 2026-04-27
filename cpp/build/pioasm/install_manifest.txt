@@ -1,5 +1,0 @@
-/home/Phillip/Pico/cpp/build/pioasm-install/pioasm/pioasm
-/home/Phillip/Pico/cpp/build/pioasm-install/pioasm/pioasmTargets.cmake
-/home/Phillip/Pico/cpp/build/pioasm-install/pioasm/pioasmTargets-release.cmake
-/home/Phillip/Pico/cpp/build/pioasm-install/pioasm/pioasmConfig.cmake
-/home/Phillip/Pico/cpp/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
